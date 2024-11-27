@@ -110,7 +110,6 @@ nav ul li:hover > ul {
   
   .sidebar {
     width: 25%;
-    background-color: #800d29;
     padding: 20px;
     color:  #c7c9cb;
   }
@@ -132,7 +131,7 @@ nav ul li:hover > ul {
     text-decoration: none;
     color: black;
     font-size: 20px;
-    font-weight: bold;
+    font-weight: bolder;
    
 
   }
